@@ -1,0 +1,9 @@
+#Ignore SQLite database file
+age_of_senators.db
+
+#Ignore Python bytecode files
+__pycache__/
+
+#Ignore virtual environment directories
+venv/
+env/
