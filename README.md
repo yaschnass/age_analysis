@@ -1,6 +1,7 @@
 # Age of Senators Analysis
 
 This script fetches the current US senators' data, calculates their ages, stores the data in a SQLite database, and generates a plot showing the average age of senators by party and gender.
+A Unittest is also added.
 
 ## Requirements
 
