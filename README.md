@@ -9,7 +9,7 @@ This script fetches the current US senators' data, calculates their ages, stores
 - `sqlalchemy` library
 - `pandas` library
 - `matplotlib` library
-
+- `datetime` library
 ## How to Run
 
 1. Clone the repository:
