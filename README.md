@@ -22,7 +22,7 @@ This script fetches the current US senators' data, calculates their ages, stores
     ```
 3. Install the required libraries:
     ```
-    pip install requests sqlalchemy pandas matplotlib
+    pip install requests sqlalchemy pandas matplotlib datetime
     ```
 4. Run the script:
     ```
