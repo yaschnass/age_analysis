@@ -33,3 +33,12 @@ A Unittest is also added.
 ## Output
 
 The script will print the average age of senators by party and gender and display a bar chart of the results.
+
+## tests
+
+A pytest unittest script is added in the tests folder. 
+
+4. Run unittest:
+    ```
+    pytest test_age_of_senators.py
+    ```
